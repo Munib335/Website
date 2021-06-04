@@ -1,0 +1,54 @@
+/* Start Defoult Sim*/
+
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active 
+{
+background-color: #E41b17;
+}
+.option-box .gear-check:hover 
+{
+opacity: 1;
+}
+.option-box .gear-check{
+    background-color: #E41b17;
+    opacity: .2;
+}
+.navbar-brand span,
+.about h1 span,
+.testimonials span,
+.footer .copy-right span,
+.footer h3,
+.navbar-inverse .navbar-nav > li > a:hover,
+.price-table .price-box:hover p,
+.our-team h1,
+.subscibe .form-control::placeholder
+
+{
+    color: #E41b17;
+}
+.dropdown-menu
+ {
+   
+    border-top:3px solid #E41b17;
+  
+}
+.testimonials .carousel-indicators li.active {
+   
+    border-radius: 50%;
+    border:3px solid #E41b17;
+  
+}
+
+.option-box .color-option
+    {
+ border: 2px solid #E41b17;
+    } 
+   /* .about h1{font-weight: bold;}*/
+
+
+/* End Defoult Sim*/

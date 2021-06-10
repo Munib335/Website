@@ -1,0 +1,99 @@
+/*Start About Us*/
+.breadcrump-holder
+{
+    background: #f5f5f5;
+    height: 50px;
+
+}
+.breadcrumb
+{
+    padding: 10px o;
+    margin-top: 10px;
+}
+.about-us{
+    padding: 70px o;
+}
+.about-us h1{
+    font-weight:bold;
+    letter-spacing: -3px;
+    font-size:62px;
+}
+.about-us hr{
+    width: 70%;
+}
+.about-us img
+{
+width: 70%;
+margin-bottom: 40px;
+}
+
+.about-features{
+    padding: 0 70px;
+
+}
+.about-features h3
+{
+letter-spacing: -1;
+font-weight: 900;
+
+}
+.about-features b{
+    margin-bottom: 20px;
+}
+.about-ceo
+{
+background: #eee;
+padding: 20px 0;
+}
+.about-ceo .lead{
+line-height: 1.8;
+}
+.about-ceo h2{
+font-weight: 700;
+}
+.about-ceo .btn-primary
+{
+    background: #333;
+    border-color: #333;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+/*End About Us*/
+
+/* Start FAQ*/
+.faq{
+    padding: 40px 0; 
+}
+.faq h1
+{
+font-family: 'Raleway', sans-serif;
+letter-spacing: -3px;
+font-size: 65px;
+
+}
+.faq h1 ~ hr
+{
+width: 70%;                                                 
+}
+
+.feq-question .panel-heading a:after
+{
+  font-family: 'Glyphicons Halflings';
+  content: "\e114";
+  float: right;
+  color: #333;
+}
+.feq-question .panel-heading a.collapsed::after
+{
+    content: "\e080";
+    color: #999;
+}
+
+/*
+.feq-question .o1:first-of-type a::after
+{
+  content: "\e114";
+  float: right;
+  color: #333;
+}
+/*End FAQ*/
